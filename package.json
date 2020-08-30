@@ -1,0 +1,20 @@
+{
+  "name": "akira-discord",
+  "version": "1.0.0",
+  "description": "![Protogen Avatar](https://repository-images.githubusercontent.com/252278043/e73c6000-742f-11ea-9bb2-3744210750be)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
